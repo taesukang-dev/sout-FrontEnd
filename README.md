@@ -63,7 +63,7 @@
 
 # 와이어 프레임
 
-- <a href="https://diddl.tistory.com/102">블로그</a>
+- <a href="https://diddl.tistory.com/102">양성은님 블로그</a>
 <br />
 
 # 웹사이트 링크
@@ -71,8 +71,8 @@
 - http://hanghae99-sout.s3-website.ap-northeast-2.amazonaws.com
 <br />
 
-# 유튜브 링크
-- 업로드 예정
+# 유튜브 시연영상 링크
+- https://www.youtube.com/watch?v=Ltmke9IyPXo
 <br />
 
 # 우리 팀이 해결한 문제
